@@ -2,7 +2,7 @@
 
 **Search Bar** is a lightweight, interactive search/filter UI that dynamically updates visible content as the user types. Built using HTML, CSS, and JavaScript, this project is great for understanding how to manipulate the DOM in real-time.
 
-🌐 **Live Demo**: [ar-aryanrai.github.io/Search-Bar](https://ar-aryanrai.github.io/Search-Bar/)
+🌐 **Live Demo**: [Check out my Search-Bar project](https://ar-aryanrai.github.io/Search-Bar/)
 
 ---
 
